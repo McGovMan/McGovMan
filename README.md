@@ -6,7 +6,7 @@
 - 😊 Proudest of **My involvement with [@nuigcompsoc](https://github.com/nuigcompsoc)**
 - 📫 How to reach me: [conor@mcgov.ie](mailto:conor@mcgov.ie)
 
-SSH Public Key: [`MD5:2c:60:cc:f4:a7:84:c1:ee:75:3b:f4:e4:83:76:84:6f`](https://mcgov.ie/keys/conor.pub) 
+SSH Public Key: [`SHA256:vj3DlmLDUd7IsG2ZP0X+yxg+WykAmmSk/ilOxSjtCfc`](https://mcgov.ie/keys/conor.pub) 
 
 PGP Key: [`6F56 89FE CF13 6F00`](https://mcgov.ie/keys/conor.pgp) 
 
