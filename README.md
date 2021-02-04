@@ -3,8 +3,9 @@
 - 🔭 I’m currently working on **[`A microservice that manages user containers`](https://github.com/nuigcompsoc/webspaced)**
 - 🌱 I’m currently learning **Go-lang**
 - 💬 Ask me about **Farming, REST APIs and Irish Folklore**
+- 💼 Working with **Hewlett Packard Enterprise PointNext**
 - 😊 Proudest of **My involvement with [@nuigcompsoc](https://github.com/nuigcompsoc)**
-- 📫 How to reach me: [conor@mcgov.ie](mailto:conor@mcgov.ie)
+- 📫 How to reach me: **[conor@mcgov.ie](mailto:conor@mcgov.ie)**
 
 SSH Public Key: [`SHA256:vj3DlmLDUd7IsG2ZP0X+yxg+WykAmmSk/ilOxSjtCfc`](https://mcgov.ie/keys/conor.pub) 
 
