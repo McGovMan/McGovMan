@@ -1,7 +1,7 @@
 ### Dia dhuit, is mise Conor!
 
 - 🔭 I’m currently working on **[`A microservice that manages user containers`](https://github.com/nuigcompsoc/api)**
-- 🌱 I’m currently learning **Go-lang**
+- 🌱 I’m currently learning **Go-lang** and **Typescript**
 - 💬 Ask me about **Farming, REST APIs and Irish Folklore**
 - 💼 Currently working with **Genesys** as an **Associate Software Engineer in Test**
 - 😊 Proudest of **My involvement with [@nuigcompsoc](https://github.com/nuigcompsoc)**
@@ -9,4 +9,3 @@
 
 #### Links
 [![Website](https://img.shields.io/website?label=mcgov.ie&style=for-the-badge&url=https%3A%2F%2Fcodestackr.com)](https://mcgov.ie)
-[![Twitter Follow](https://img.shields.io/twitter/follow/McGovMan?color=1DA1F2&logo=twitter&style=for-the-badge)](https://twitter.com/intent/follow?original_referer=https%3A%2F%2Fgithub.com%2FcodeSTACKr&screen_name=McGovMan)
