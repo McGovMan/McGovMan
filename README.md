@@ -3,7 +3,7 @@
 - 🔭 I’m currently working on **[`A microservice that manages user containers`](https://github.com/nuigcompsoc/api)**
 - 🌱 I’m currently learning **Go-lang** and **Typescript**
 - 💬 Ask me about **Farming, REST APIs and Irish Folklore**
-- 💼 Currently working as an **Associate Software Engineer** in **Genesys**
+- 💼 Currently working as an **Software Engineer** in **Genesys**
 - 😊 Proudest of **My involvement with [@ugcompsoc](https://github.com/ugcompsoc)**
 - 📫 How to reach me: **[conor@mcgov.ie](mailto:conor@mcgov.ie)**
 
